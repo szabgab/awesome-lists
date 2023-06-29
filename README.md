@@ -19,5 +19,8 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 * [Awesome for non-programmer](https://github.com/szabgab/awesome-for-non-programmers)
 * [Microsoft Awesome](https://github.com/Awesome-Windows/Awesome)
+
+## Programming languages
+
 * [Python Awesome](https://github.com/vinta/awesome-python)
 * [Awesome Go](https://github.com/avelino/awesome-go)
