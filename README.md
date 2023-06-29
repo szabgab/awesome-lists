@@ -6,7 +6,8 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 ## How to contribute?
 
-* Find a repository with an awesome list on GitHub that is not yet listed in this list.
+* Find a repository with an awesome list on GitHub that is not yet listed in this list. You can find more by following one of the relevant topics:
+    * [awesome](https://github.com/topics/awesome)
 * Edit the README.md file adding the new entry
 * Send a pull-request.
   
