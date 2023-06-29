@@ -8,7 +8,9 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 * Find a repository with an awesome list on GitHub that is not yet listed in this list. You can find more by following one of the relevant topics:
     * [awesome](https://github.com/topics/awesome)
-* Edit the README.md file adding the new entry
+    * [awesome-list](https://github.com/topics/awesome-list)
+    * [awesome-lists](https://github.com/topics/awesome-lists)
+* Edit the README.md file adding the new entry.
 * Send a pull-request.
   
 * Bonus: Once your pull-request is accepted, visit the newly added awesome list and send them a pull-request linking to our list.
