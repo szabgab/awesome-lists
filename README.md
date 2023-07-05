@@ -19,8 +19,26 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 * [Awesome for non-programmer](https://github.com/szabgab/awesome-for-non-programmers)
 * [Microsoft Awesome](https://github.com/Awesome-Windows/Awesome)
+* [Awesome for programmers](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## Programming languages
 
 * [Python Awesome](https://github.com/vinta/awesome-python)
 * [Awesome Go](https://github.com/avelino/awesome-go)
+* [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+* [Awesome Java](https://github.com/akullpp/awesome-java)
+* [Awesome PHP](https://github.com/ziadoz/awesome-php)
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
+
+### Programming languages Components
+* [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
+## Computer Science
+
+### Education
+* [Awesome Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)
+  
+### Awesome Papers / Articles
+* [Awesome Computer Science Papers](https://github.com/papers-we-love/papers-we-love)
