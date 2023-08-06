@@ -20,6 +20,10 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome for non-programmer](https://github.com/szabgab/awesome-for-non-programmers)
 * [Microsoft Awesome](https://github.com/Awesome-Windows/Awesome)
 * [Awesome for programmers](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [Awesome Android UI/UX list](https://github.com/wasabeef/awesome-android-ui)
+* [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [Awesome Computer-Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 ## Programming languages
 
@@ -34,6 +38,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 ### Programming languages Components
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
+* [Awesome Nuxt.js](https://github.com/nuxt/awesome)
 
 ## Computer Science
 
