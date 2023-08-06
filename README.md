@@ -34,6 +34,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 ### Programming languages Components
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
+* [Awesome Nuxt.js](https://github.com/nuxt/awesome)
 
 ## Computer Science
 
