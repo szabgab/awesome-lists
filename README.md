@@ -35,6 +35,10 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Java](https://github.com/akullpp/awesome-java)
 * [Awesome PHP](https://github.com/ziadoz/awesome-php)
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
+* [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml)
+* [Awesome Move](https://github.com/MystenLabs/awesome-move)
 
 ### Programming languages Components
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
