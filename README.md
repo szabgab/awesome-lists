@@ -28,6 +28,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 ## README Lists
 
 * [Awesome GitHub Badges for README](https://github.com/chetanraj/awesome-github-badges)
+* [Awesome GitHub Shield Badges for README](https://github.com/Ileriayo/markdown-badges)
 * [Awesome GitHub Achevements for README](https://github.com/drknzz/GitHub-Achievements)
 * [Awesome GitHub Stats for README](https://github.com/anuraghazra/github-readme-stats)
 * [Awesome GitHub Quotes for README](https://github.com/shravan20/github-readme-quotes)
