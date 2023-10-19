@@ -24,6 +24,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 * [Awesome Computer-Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Frontend Developer Career Path](https://github.com/fulyaertay/Front-End-Developer-Path)
 
 ## README Lists
 
