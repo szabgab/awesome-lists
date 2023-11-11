@@ -18,6 +18,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 ## Awesome lists
 
 * [Awesome for non-programmer](https://github.com/szabgab/awesome-for-non-programmers)
+* [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 * [Microsoft Awesome](https://github.com/Awesome-Windows/Awesome)
 * [Awesome for programmers](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Awesome Android UI/UX list](https://github.com/wasabeef/awesome-android-ui)
