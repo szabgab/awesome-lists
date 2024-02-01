@@ -35,6 +35,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome GitHub Achevements for README](https://github.com/drknzz/GitHub-Achievements)
 * [Awesome GitHub Stats for README](https://github.com/anuraghazra/github-readme-stats)
 * [Awesome GitHub Quotes for README](https://github.com/shravan20/github-readme-quotes)
+* [Awesome README: A curated list of READMEs](https://github.com/matiassingers/awesome-readme)
 
 ## Programming languages
 
