@@ -27,6 +27,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Computer-Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Frontend Developer Career Path](https://github.com/fulyaertay/Front-End-Developer-Path)
 * [An awesome & curated list of best applications and tools for Windows](https://github.com/Awesome-Windows/Awesome)
+
 ## README Lists
 
 * [Awesome GitHub Badges for README](https://github.com/chetanraj/awesome-github-badges)
@@ -37,24 +38,25 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 ## Programming languages
 
-* [Python Awesome](https://github.com/vinta/awesome-python)
-* [Awesome Go](https://github.com/avelino/awesome-go)
-* [Awesome React](https://github.com/enaqx/awesome-react)
-* [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
-* [Awesome Flutter](https://github.com/Solido/awesome-flutter)
-* [Awesome Java](https://github.com/akullpp/awesome-java)
-* [Awesome PHP](https://github.com/ziadoz/awesome-php)
-* [Awesome Shell](https://github.com/alebcay/awesome-shell)
 * [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)
+* [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+* [Awesome Go](https://github.com/avelino/awesome-go)
+* [Awesome Java](https://github.com/akullpp/awesome-java)
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-* [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml)
 * [Awesome Move](https://github.com/MystenLabs/awesome-move)
+* [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml)
+* [Awesome PHP](https://github.com/ziadoz/awesome-php)
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
 
 ### Programming languages Components
-* [Awesome React Components](https://github.com/brillout/awesome-react-components)
 * [Awesome Nuxt.js](https://github.com/nuxt/awesome)
+* [Awesome React Components](https://github.com/brillout/awesome-react-components)
 
 ## Computer Science
+
 
 ### Education
 * [Awesome Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)
