@@ -56,6 +56,9 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Nuxt.js](https://github.com/nuxt/awesome)
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
 
+### Linux Flavors
+* [Awesome Nix](https://github.com/nix-community/awesome-nix)
+
 ## Computer Science
 
 
