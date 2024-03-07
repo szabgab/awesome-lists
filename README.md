@@ -27,8 +27,14 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Computer-Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Frontend Developer Career Path](https://github.com/fulyaertay/Front-End-Developer-Path)
 * [An awesome & curated list of best applications and tools for Windows](https://github.com/Awesome-Windows/Awesome)
-* [Awesome for Docker] (https://github.com/veggiemonk/awesome-docker)
- 
+* [Awesome for Docker](https://github.com/veggiemonk/awesome-docker)
+* [Awesome for Chat-gpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [Awesome for Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Awesome for pentest](https://github.com/enaqx/awesome-pentest)
+* [Awesome Programming Books](https://github.com/royeo/awesome-programming-books)
+* [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 ## README Lists
 
 * [Awesome GitHub Badges for README](https://github.com/chetanraj/awesome-github-badges)
@@ -52,16 +58,16 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
-
+* [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
 ### Programming languages Components
 * [Awesome Nuxt.js](https://github.com/nuxt/awesome)
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
-
+* [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 ## Computer Science
 
 
 ### Education
 * [Awesome Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)
-  
+* [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) 
 ### Awesome Papers / Articles
 * [Awesome Computer Science Papers](https://github.com/papers-we-love/papers-we-love)
