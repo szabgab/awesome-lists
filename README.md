@@ -77,3 +77,6 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) 
 ### Awesome Papers / Articles
 * [Awesome Computer Science Papers](https://github.com/papers-we-love/papers-we-love)
+
+## Projects
+* [Awesome Projects for Beginners](https://github.com/MunGell/awesome-for-beginners)
