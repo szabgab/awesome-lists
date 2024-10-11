@@ -35,6 +35,8 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+* [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps?tab=readme-ov-file)
+
 ## README Lists
 
 * [Awesome GitHub Badges for README](https://github.com/chetanraj/awesome-github-badges)
@@ -52,31 +54,47 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Java](https://github.com/akullpp/awesome-java)
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome Move](https://github.com/MystenLabs/awesome-move)
-* [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
 * [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml)
 * [Awesome PHP](https://github.com/ziadoz/awesome-php)
 * [Awesome Python](https://github.com/vinta/awesome-python)
-* [Awesome React](https://github.com/enaqx/awesome-react)
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
+
+### Programming languages Components & Frameworks
+
 * [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
-### Programming languages Components
+* [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
 * [Awesome Nuxt.js](https://github.com/nuxt/awesome)
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
+* [Awesome Electron](https://github.com/sindresorhus/awesome-electron).
+* [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+* [Awesome APIs](https://github.com/TonnyL/Awesome_APIs)
+* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 
 ## Linux Flavors
+
 * [Awesome Nix](https://github.com/nix-community/awesome-nix)
 
 ## Editors/IDEs
+
 * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
+* [Awesome NeoVim](https://github.com/rockerBOO/awesome-neovim)
 
 ## Computer Science
 
+* [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 
 ### Education
+
 * [Awesome Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)
-* [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) 
+* [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+* [Awesome Curriculum Vitae](https://github.com/posquit0/Awesome-CV)
+
 ### Awesome Papers / Articles
+
 * [Awesome Computer Science Papers](https://github.com/papers-we-love/papers-we-love)
 
 ## Projects
+
 * [Awesome Projects for Beginners](https://github.com/MunGell/awesome-for-beginners)
