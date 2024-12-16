@@ -98,3 +98,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 ## Projects
 
 * [Awesome Projects for Beginners](https://github.com/MunGell/awesome-for-beginners)
+
+## Coding Problems
+
+* [100-plus-python-coding-problems-with-solutions](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions)
