@@ -90,6 +90,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [Awesome Curriculum Vitae](https://github.com/posquit0/Awesome-CV)
+* [Awesome Free Certifications](https://github.com/RBLucky/Awesome-Free-Certifications)
 
 ### Awesome Papers / Articles
 
