@@ -36,6 +36,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 * [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps?tab=readme-ov-file)
+* [Awesome Self-Hosted Options](https://github.com/awesome-selfhosted/awesome-selfhosted.git)
 
 ## README Lists
 
