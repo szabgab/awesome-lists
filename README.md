@@ -31,6 +31,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome for Chat-gpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Awesome for Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Awesome for pentest](https://github.com/enaqx/awesome-pentest)
+* [Awesome for Robotics](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent.git)
 * [Awesome Programming Books](https://github.com/royeo/awesome-programming-books)
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
