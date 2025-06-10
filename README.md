@@ -108,3 +108,15 @@ If for nothing else then to provide and opportunity for someone who has not cont
 ## Coding Problems
 
 * [100-plus-python-coding-problems-with-solutions](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions)
+
+## Designing
+
+### Awesome Design
+
+* [Awesome Design](https://github.com/gztchan/awesome-design) - A curated list of design and UI/UX resources.
+* [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - A list of design systems and pattern libraries.
+* [Awesome Figma](https://github.com/ericbernier/awesome-figma) - Curated Figma plugins and resources.
+* [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y) - Resources to design accessible user experiences.
+* [Awesome Icons](https://github.com/notlmn/awesome-icons) - Icon libraries and design tools.
+* [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Plugins and resources for Sketch.
+* [Awesome Adobe XD](https://github.com/AdobeXD/xd-awesome) - Adobe XD tools and resources.
