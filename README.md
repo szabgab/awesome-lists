@@ -59,6 +59,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome PHP](https://github.com/ziadoz/awesome-php)
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
 ### Programming languages Components & Frameworks
 
