@@ -19,14 +19,13 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 * [Awesome for non-programmer](https://github.com/szabgab/awesome-for-non-programmers)
 * [Awesome Github Actions](https://github.com/sdras/awesome-actions)
-* [Microsoft Awesome](https://github.com/Awesome-Windows/Awesome)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Best applications and tools for Windows
 * [Awesome for programmers](https://github.com/trimstray/the-book-of-secret-knowledge)
-* [Awesome Android UI/UX list](https://github.com/wasabeef/awesome-android-ui)
+* [Awesome Android UI/UX](https://github.com/wasabeef/awesome-android-ui)
 * [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
-* [Awesome Computer-Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Frontend Developer Career Path](https://github.com/fulyaertay/Front-End-Developer-Path)
-* [An awesome & curated list of best applications and tools for Windows](https://github.com/Awesome-Windows/Awesome)
 * [Awesome for Docker](https://github.com/veggiemonk/awesome-docker)
 * [Awesome for Chat-gpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Awesome for Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
@@ -69,12 +68,12 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
 * [Awesome Nuxt.js](https://github.com/nuxt/awesome)
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
-* [Awesome Electron](https://github.com/sindresorhus/awesome-electron).
+* [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
 * [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 * [Awesome APIs](https://github.com/TonnyL/Awesome_APIs)
 * [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 
-* ## KY Indie Game Resources
+## KY Indie Game Resources
 * [Ky Awesome Indie Game Engines](https://github.com/Krishnamohan33/Ky-awesome-indie-game_engines) - A curated list of indie-friendly game engines. 
 
 
