@@ -121,3 +121,4 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Icons](https://github.com/notlmn/awesome-icons) - Icon libraries and design tools.
 * [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Plugins and resources for Sketch.
 * [Awesome Adobe XD](https://github.com/AdobeXD/xd-awesome) - Adobe XD tools and resources.
+* [Awesome n8n Templates](https://github.com/ScraperNode/awesome-n8n-templates) - n8n workflow templates organized by category, integration, and use case
