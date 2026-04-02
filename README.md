@@ -37,6 +37,7 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 * [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps?tab=readme-ov-file)
 * [Awesome Self-Hosted Options](https://github.com/awesome-selfhosted/awesome-selfhosted.git)
+* [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis)
 
 ## README Lists
 
