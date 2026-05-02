@@ -18,3 +18,4 @@ by others
 * [awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) by rust-cc
 * [awesome-ratatui](https://github.com/ratatui/awesome-ratatui) by ratatui
 
+Maintained in https://github.com/szabgab/awesome-lists

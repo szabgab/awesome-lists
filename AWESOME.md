@@ -11,4 +11,4 @@
 * [awesome independent softwre educators](https://github.com/szabgab/awesome-independent-software-educators)
 * [awesome lists](https://github.com/szabgab/awesome-lists)
 
-
+Maintained in https://github.com/szabgab/awesome-lists
