@@ -47,7 +47,7 @@ while ( my $line = <$fh> ) {
         my $destination = File::Spec->catfile( $target, $file );
         if (-e $destination) {
             print "  copy $file to $destination\n";
-            #copy( $file, $destination ) or die "Could not copy $file to $destination: $!";
+            copy( $file, $destination ) or die "Could not copy $file to $destination: $!";
         }
     }
 }
