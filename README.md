@@ -38,6 +38,9 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps?tab=readme-ov-file)
 * [Awesome Self-Hosted Options](https://github.com/awesome-selfhosted/awesome-selfhosted.git)
 * [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis)
+* [Awesome Subreddits](https://github.com/soarsh/awesome-subreddits) - Curated subreddit lists for marketers, founders, and operators, organized by who you are trying to reach.
+* [GTM AI Stack](https://github.com/dapollonsky/gtm-ai-stack) - A curated, editorially-maintained map of AI-native tools and MCP plumbing for go-to-market teams.
+* [Marketing AI Stack](https://github.com/dapollonsky/marketing-ai-stack) - Open-source tools that try to do marketing work end-to-end.
 
 ## README Lists
 
