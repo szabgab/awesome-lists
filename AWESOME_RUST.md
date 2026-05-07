@@ -1,12 +1,13 @@
 # Awesome lists about Rust
 
-by szabgab
+## by szabgab
 
 * [awesome-axum](https://github.com/szabgab/awesome-axum).
 * [awesome-sqlx](https://github.com/szabgab/awesome-sqlx).
 * [awesome-tokio](https://github.com/szabgab/awesome-tokio).
+* [awesome-rust-db](https://github.com/szabgab/awesome-rust-db)
 
-by others
+## by others
 
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust) by rust-unofficial
 * [awesome-rust](https://github.com/awesome-rust-com/awesome-rust) by awesome-rust-com
