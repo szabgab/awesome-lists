@@ -43,6 +43,8 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [GTM AI Stack](https://github.com/dapollonsky/gtm-ai-stack) - A curated, editorially-maintained map of AI-native tools and MCP plumbing for go-to-market teams.
 * [Marketing AI Stack](https://github.com/dapollonsky/marketing-ai-stack) - Open-source tools that try to do marketing work end-to-end.
 
+* [Awesome First-PR Request](https://github.com/firstcontributions/first-contributions)
+
 ## README Lists
 
 * [Awesome GitHub Badges for README](https://github.com/chetanraj/awesome-github-badges)
