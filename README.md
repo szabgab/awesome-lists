@@ -2,7 +2,7 @@
 
 There are many awesome lists on GitHub. It is time to create the awesome list of all the awesome lists.
 
-If for nothing else then to provide and opportunity for someone who has not contributed to a project via GitHub to try to send a pull-request.
+If for nothing else, then to provide an opportunity for someone who has not contributed to a project via GitHub to try sending a pull request.
 
 ## How to contribute?
 
