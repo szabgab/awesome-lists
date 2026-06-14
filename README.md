@@ -2,7 +2,7 @@
 
 There are many awesome lists on GitHub. It is time to create the awesome list of all the awesome lists.
 
-If for nothing else then to provide and opportunity for someone who has not contributed to a project via GitHub to try to send a pull-request.
+If for nothing else, then to provide an opportunity for someone who has not contributed to a project via GitHub to try sending a pull request.
 
 ## How to contribute?
 
@@ -42,6 +42,8 @@ If for nothing else then to provide and opportunity for someone who has not cont
 * [Awesome Crypto MCP Servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) - Curated Model Context Protocol servers for crypto, Web3, DeFi, wallets, trading, on-chain data, and AI agents.
 * [GTM AI Stack](https://github.com/dapollonsky/gtm-ai-stack) - A curated, editorially-maintained map of AI-native tools and MCP plumbing for go-to-market teams.
 * [Marketing AI Stack](https://github.com/dapollonsky/marketing-ai-stack) - Open-source tools that try to do marketing work end-to-end.
+
+* [Awesome First-PR Request](https://github.com/firstcontributions/first-contributions)
 
 ## README Lists
 
