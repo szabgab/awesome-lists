@@ -37,6 +37,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 * [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps?tab=readme-ov-file)
 * [Awesome Self-Hosted Options](https://github.com/awesome-selfhosted/awesome-selfhosted.git)
+* [Awesome Homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 * [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis)
 * [Awesome Subreddits](https://github.com/soarsh/awesome-subreddits) - Curated subreddit lists for marketers, founders, and operators, organized by who you are trying to reach.
 * [Awesome Crypto MCP Servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) - Curated Model Context Protocol servers for crypto, Web3, DeFi, wallets, trading, on-chain data, and AI agents.
