@@ -23,6 +23,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome for programmers](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Awesome Android UI/UX list](https://github.com/wasabeef/awesome-android-ui)
 * [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+* [Awesome Meccha Chameleon Hide Spots](https://github.com/zlc000190/awesome-meccha-chameleon-hide-spots) - Community-curated hiding spots, map references, and camouflage notes for the paint-based hide-and-seek game Meccha Chameleon.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 * [Awesome Computer-Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Frontend Developer Career Path](https://github.com/fulyaertay/Front-End-Developer-Path)
