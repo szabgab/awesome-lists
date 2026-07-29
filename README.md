@@ -46,6 +46,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
 
 * [Awesome First-PR Request](https://github.com/firstcontributions/first-contributions)
+* [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
 
 ## README Lists
 
