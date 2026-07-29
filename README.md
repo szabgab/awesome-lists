@@ -43,6 +43,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [GTM AI Stack](https://github.com/dapollonsky/gtm-ai-stack) - A curated, editorially-maintained map of AI-native tools and MCP plumbing for go-to-market teams.
 * [Marketing AI Stack](https://github.com/dapollonsky/marketing-ai-stack) - Open-source tools that try to do marketing work end-to-end.
 * [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
+* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
 
 * [Awesome First-PR Request](https://github.com/firstcontributions/first-contributions)
 
