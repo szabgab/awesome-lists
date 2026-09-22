@@ -43,6 +43,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis)
 * [Awesome Subreddits](https://github.com/soarsh/awesome-subreddits) - Curated subreddit lists for marketers, founders, and operators, organized by who you are trying to reach.
 * [Awesome Crypto MCP Servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) - Curated Model Context Protocol servers for crypto, Web3, DeFi, wallets, trading, on-chain data, and AI agents.
+* [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - Community-maintained calendar of international Bitcoin conferences, meetups, retreats, and festivals with source verification.
 * [GTM AI Stack](https://github.com/dapollonsky/gtm-ai-stack) - A curated, editorially-maintained map of AI-native tools and MCP plumbing for go-to-market teams.
 * [Marketing AI Stack](https://github.com/dapollonsky/marketing-ai-stack) - Open-source tools that try to do marketing work end-to-end.
 * [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
