@@ -51,6 +51,8 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome First-PR Request](https://github.com/firstcontributions/first-contributions)
 * [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
 
+* [Awesome Jev](https://github.com/AbdelStark/awesome-typesafe-jev) - Source-backed resources for TypeSafe Jev, including SDKs, integrations, applications, and independent evaluations.
+
 ## README Lists
 
 * [Awesome GitHub Badges for README](https://github.com/chetanraj/awesome-github-badges)
