@@ -52,6 +52,8 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
 * [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 
+* [Awesome Jev](https://github.com/AbdelStark/awesome-typesafe-jev) - Source-backed resources for TypeSafe Jev, including SDKs, integrations, applications, and independent evaluations.
+
 ## README Lists
 
 * [Awesome GitHub Badges for README](https://github.com/chetanraj/awesome-github-badges)
