@@ -48,6 +48,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Marketing AI Stack](https://github.com/dapollonsky/marketing-ai-stack) - Open-source tools that try to do marketing work end-to-end.
 * [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
 * [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
+* [Awesome AI Agents](https://github.com/ianwieds/awesome-ai-agents) - AI agent frameworks, coding agents, browser agents, tools, platforms and research.
 
 * [Awesome First-PR Request](https://github.com/firstcontributions/first-contributions)
 * [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
