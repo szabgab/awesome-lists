@@ -17,6 +17,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 
 ## Awesome lists
 
+* [Awesome Freelance Tools](https://github.com/kleogeos/awesome-freelance-tools)
 * [Awesome for non-programmer](https://github.com/szabgab/awesome-for-non-programmers)
 * [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 * [Microsoft Awesome](https://github.com/Awesome-Windows/Awesome)
