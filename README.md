@@ -50,6 +50,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 
 * [Awesome First-PR Request](https://github.com/firstcontributions/first-contributions)
 * [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
+* [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 
 ## README Lists
 
