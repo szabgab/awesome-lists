@@ -115,6 +115,10 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [Awesome Curriculum Vitae](https://github.com/posquit0/Awesome-CV)
 * [Awesome Free Certifications](https://github.com/RBLucky/Awesome-Free-Certifications)
+* [Awesome Student Resources](https://github.com/StudentSuite/awesome-student-resources) - Software, tools, textbooks, and channels for students anywhere.
+* [Awesome Study Resources](https://github.com/StudentSuite/awesome-study-resources) - Exam prep and subject study resources for IB, IGCSE, GCSE, A-Level, AP, SAT, and ACT.
+* [Awesome SAT Resources](https://github.com/StudentSuite/awesome-sat-resources) - Official practice, mock tests, question banks, and study guides for the digital SAT.
+* [Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - AI coding agent skills and plugins for student coursework, exam prep, and college applications.
 
 ### Awesome Papers / Articles
 
