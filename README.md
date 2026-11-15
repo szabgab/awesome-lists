@@ -55,6 +55,7 @@ If for nothing else, then to provide an opportunity for someone who has not cont
 * [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 
 * [Awesome Jev](https://github.com/AbdelStark/awesome-typesafe-jev) - Source-backed resources for TypeSafe Jev, including SDKs, integrations, applications, and independent evaluations.
+* [Awesome YouTube Transcripts](https://github.com/tubeagentkit/awesome-youtube-transcripts) - Libraries, APIs, MCP servers, agent skills and apps for getting YouTube transcripts and subtitles.
 
 ## README Lists
 
